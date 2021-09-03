@@ -18,6 +18,11 @@ Please note that this project uses standard tuning. If you don't know what stand
 * B
 * E
 #### Changes:
+* Due to the new audio class, there can't be multiple sounds playing at once.
+* deleted the old confuzing audio object that sucked
+* modernised javascript to use ES 6 standards
+* Sepperated javascript from the HTML
+* There is now a help button instead of a details widgit only.
 * Added the readme file
 * Improved the user interface a little
 ### Contributing
